@@ -6,7 +6,7 @@ How to do data analysis on student_habits_performance dataset?
 
 2. Read the CSV file and identify the unique values in each column.
 
-3. Fill 'parental_education_level' column with 'unknown' value.
+3. Fill NaN value in 'parental_education_level' column with 'unknown' value.
 
 4. Do bar, box, and correlation plots.
 
